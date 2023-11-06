@@ -1,4 +1,4 @@
-# snake-game
+# Snake Game Using OOP in Python
 
 
 This Snake game is a classic and entertaining implementation of the popular game, built entirely using Object-Oriented Programming (OOP) principles in Python. It offers a fun and interactive gaming experience with a focus on code organization, extensibility, and modularity.
