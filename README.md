@@ -40,7 +40,7 @@ Getting Started:
 1.Clone the repository:
 git clone https://github.com/sabari1904/snake-game.git
 
-2. Run the game:
+2.Run the game:
 python main.py
 
 Contribution:
