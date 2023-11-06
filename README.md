@@ -22,7 +22,7 @@ Key Features:
 How to Play:
 
 1. Clone or download the repository to your local machine.
-   
+  
 2. Ensure you have Python library installed.
 
 3. Run the main.py script to start the game.
